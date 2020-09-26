@@ -27,6 +27,8 @@
               echo "Error: " . $sql . "<br>" . $connect->error;
         }
 
+    
+
 $connect->close();
 
     }
